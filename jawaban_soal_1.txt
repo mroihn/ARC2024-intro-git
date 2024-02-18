@@ -1,0 +1,1 @@
+Merge conflict terjadi ketika ada perubahan yang berbeda pada suatu baris dan file yang sama. Untuk menanggulanginya pertama buka file yang mengalami conflict. Setelah itu edit bagian file yang mengalami conflict. Setelah diedit gunakan command git add. Simpan perubahan dengan menggunakan git commit.

@@ -1,0 +1,1 @@
+git rebase adalah proses memindahkan atau menggabungkan serangkaian commit ke commit base yang baru.

@@ -1,0 +1,1 @@
+Fork adalah aktivitas menyalin proyek kedalam akun github kita. Pull request adalah permintaan yang dilakukan untuk menggabungkan suatu perubahan ke repo utama.
